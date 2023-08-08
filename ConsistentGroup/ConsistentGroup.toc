@@ -1,0 +1,8 @@
+## Interface: 100105
+## Title: Consitent Group
+## Notes: Manage an across character group with friends
+## Author: Stefan Wixfort
+## Version: v0.0.1
+
+#ConsistentGroup.xml
+ConsistentGroup.lua
